@@ -1,0 +1,5 @@
+sku_id,sku_name,category,unit_cost_inr,annual_holding_cost_rate,order_cost_inr,service_level_z
+SKU-0001,Deep Groove Bearing 6205,Bearings,650,0.22,1500,1.65
+SKU-0002,Pneumatic Solenoid Valve V12,Valves,2400,0.24,1800,1.65
+SKU-0003,High Tensile Hex Bolt M10,Fasteners,45,0.18,900,1.28
+SKU-0004,PLC Digital Input Module 24V,Controls,6800,0.25,2200,1.96

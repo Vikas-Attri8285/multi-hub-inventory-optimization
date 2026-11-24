@@ -1,0 +1,6 @@
+lead_time_id,sku_id,hub_code,supplier_name,avg_lead_time_days,lead_time_std_days
+1,SKU-0001,HUB_NORTH,Apex Industrial Supply,8,1.50
+2,SKU-0001,HUB_WEST,Apex Industrial Supply,10,2.00
+3,SKU-0002,HUB_SOUTH,Deccan Fluid Systems,14,2.50
+4,SKU-0003,HUB_EAST,Bharat Precision,6,1.00
+5,SKU-0004,HUB_NORTH,Malwa Electro-Tech,18,3.20
